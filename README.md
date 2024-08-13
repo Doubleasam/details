@@ -1,8 +1,4 @@
-# dashboard
+## Contact Information
 
-Hello Kishore Dev
-Drop your contact details here.
-whatsapp, gmail or skype and push back to this repo.
-I Need to send some things to you.
-OR
-Create another repo and drop your details
+- **WhatsApp**: +91 9342949761
+- **Skype**: live:.cid.1fc4dad1e4e286e0
